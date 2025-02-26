@@ -36,9 +36,6 @@ This project is a Java-based desktop application designed to convert decimal num
    - Enter a decimal number in the provided input field.
    - Click the "Convert" button to see its IEEE 754 single-precision representation.
 
-## Live Demo
-
-If a live demo or executable JAR file is available, provide the link here.
 
 ## License
 
